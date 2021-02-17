@@ -1,0 +1,26 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.colorTheme": "One Dark Pro",
+  "window.zoomLevel": -2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    // For ESLint
+    "source.fixAll.eslint": true
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "explorer.sortOrder": "type",
+  "editor.cursorBlinking": "smooth",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": true,
+  "breadcrumbs.enabled": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.letterSpacing": 0.2,
+  "editor.lineHeight": 21
+}
