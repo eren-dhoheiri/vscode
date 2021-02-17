@@ -20,7 +20,8 @@
   "editor.minimap.enabled": false,
   "editor.cursorSmoothCaretAnimation": true,
   "breadcrumbs.enabled": true,
-  "editor.renderWhitespace": "boundary",
+  "editor.renderWhitespace": "all",
   "editor.letterSpacing": 0.2,
-  "editor.lineHeight": 21
+  "editor.lineHeight": 21,
+  "editor.insertSpaces": true
 }
