@@ -1,5 +1,6 @@
 # Visual Studio Code My Personal Preference Settings
-1. Replace your settings.json with the settings.json from this repository.
+
+Replace your settings.json with the settings.json from this repository.
 
 # Settings File Locations
 Depending on your platform, the user settings file is located here:
